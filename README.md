@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **marwahammamouche@gmail.com**
 
-- ⚡ Fact  **Crime books are my favorite**
+- ⚡ Fact ⇒ **Crime books are my favorite**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

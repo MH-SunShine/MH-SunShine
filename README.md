@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Marwa</h1>
 <h3 align="center">I like to cook gorgeous lasagnas from different cookbooks</h3>
 
-<img align="right" alt="Coding" width="600" src="https://i.pinimg.com/originals/49/6e/a0/496ea00c1911bebf770885ea5445bce3.gif">
+<img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/49/6e/a0/496ea00c1911bebf770885ea5445bce3.gif">
 
 
 - 🌱 I’m currently learning **Python, Django**

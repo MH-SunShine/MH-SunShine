@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="480" src="https://i.pinimg.com/originals/49/6e/a0/496ea00c1911bebf770885ea5445bce3.gif">
 
 
-- 🌱 I’m currently learning **Python, Django**
+- 🌱 I’m currently learning **Flask**
 
 - 📫 How to reach me **marwahammamouche@gmail.com**
 
